@@ -40,3 +40,5 @@ or trademarks, whether by implication, estoppel or otherwise.
 
 git config --global username "gituser"
 git config --global emailaddress "bharathn@clarium.tech"
+
+git checkout -b "branchname" # this command to create new branch"
