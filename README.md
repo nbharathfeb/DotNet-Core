@@ -42,3 +42,5 @@ git config --global username "gituser"
 git config --global emailaddress "bharathn@clarium.tech"
 
 git checkout -b "branchname" # this command to create new branch"
+
+git revert # unnecessary commit
