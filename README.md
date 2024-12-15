@@ -43,5 +43,4 @@ git config --global emailaddress "bharathn@clarium.tech"
 
 git checkout -b "branchname" # this command to create new branch"
 
-
-git cherry-pick
+git cherry-pick "commit id"
